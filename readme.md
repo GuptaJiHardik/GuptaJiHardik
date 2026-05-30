@@ -51,8 +51,8 @@
 <h2 align="center"> GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake dark"/>
-  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Snake light"/>
+  <img src="https://raw.githubusercontent.com/GuptaJiHardik/GuptaJiHardik/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark"/>
+  <img src="https://raw.githubusercontent.com/GuptaJiHardik/GuptaJiHardik/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Snake Light"/>
 </p>
 
 ---
